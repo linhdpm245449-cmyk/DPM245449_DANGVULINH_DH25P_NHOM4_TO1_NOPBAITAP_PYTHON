@@ -1,0 +1,9 @@
+x = 7
+y = 3
+print("x / y  =", x / y)     # Chia thực
+print("x // y =", x // y)    # Chia lấy nguyên
+print("x % y  =", x % y)     # Chia lấy dư
+print("x ** y =", x ** y)    # Lũy thừa
+print("True and False =", True and False)  # Phép logic AND
+print("True or False  =", True or False)   # Phép logic OR
+print("x is y =", x is y)   # Kiểm tra 2 biến có cùng tham chiếu không
